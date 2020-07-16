@@ -26,9 +26,9 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: http://github.com/probberechts/cactus-dark
-  twitter: /
-  facebook: /
-  linkedin: /
+  # twitter: /
+  # facebook: /
+  # linkedin: /
   mail: mailto:name@email.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -127,8 +127,8 @@ rss: false
 open_graph:
   fb_app_id:
   fb_admins:
-  # twitter_id:
-  # google_plus:
+  twitter_id:
+  google_plus:
 
 
 ##############################################################################
