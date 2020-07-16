@@ -127,8 +127,8 @@ rss: false
 open_graph:
   fb_app_id:
   fb_admins:
-  twitter_id:
-  google_plus:
+  # twitter_id:
+  # google_plus:
 
 
 ##############################################################################
